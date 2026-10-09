@@ -22,7 +22,7 @@ I agreed to handle backend development on September 22 and started development w
 
 ## My meeting records
 
-I met with the group on September 22, 2026, and September 29, 2026, from 10:45 a.m. to 11:45 a.m. on both dates. The minutes in this folder contain only my notes; other group members write their own files. My first meeting records my backend responsibility; my second records the start of Node.js and SQLite development.
+I met with the group on September 22, September 29, and October 8, 2026, from 10:45 a.m. to 11:45 a.m. The minutes in this folder contain only my notes; other group members write their own files. My first meeting records my backend responsibility; my second records the start of Node.js and SQLite development; my third records backend progress and remaining verification work. Confirm the third meeting's date and time against the group's actual meeting record.
 
 ## Files
 
@@ -34,6 +34,7 @@ I met with the group on September 22, 2026, and September 29, 2026, from 10:45 a
 | [backend-notes.md](backend-notes.md) | Backend development summary and API work | Source and database inspected; live API testing pending |
 | [minutes_1.md](minutes_1.md) | Garret's individual first-meeting minutes and PBI table | September 22, 2026; 10:45–11:45 a.m.; backend role recorded |
 | [minutes_2.md](minutes_2.md) | Garret's individual second-meeting minutes and progress updates | September 29, 2026; 10:45–11:45 a.m.; development start recorded |
+| [minutes_3.md](minutes_3.md) | Garret's individual third-meeting minutes and backend progress update | October 8, 2026; 10:45–11:45 a.m.; confirm meeting details |
 | prototypes/settings.png | Export of the final settings prototype | Not yet added |
 
 [Group 1 Figma design](https://www.figma.com/design/KLO3v6UELNYGNn7ymmxZA8/SE-F26-%7C-Group-1?node-id=33-33&t=BqqVxLNIdWxKKX7t-1)
@@ -49,7 +50,7 @@ The Project-2 materials are prepared for both local repositories: `CSCI4221_F26`
 ## Submission checklist
 
 - [ ] Confirm Project 1 product scope and use the Group 1 combined repository as the starting point.
-- [x] Document the two meetings held on September 22 and September 29.
+- [x] Document the meetings held on September 22, September 29, and October 8; confirm the third meeting details.
 - [ ] Complete individual minutes with Garret Godwin on the first line.
 - [ ] Include PBI, Status, Sprint, Estimate, Assigned, and Reviewer columns in each meeting record.
 - [ ] Document prototype discussions, user types, usage, and task assignments at the first meeting.
